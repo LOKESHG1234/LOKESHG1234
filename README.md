@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LOKESHG1234
+- 👋 Hi, I’m Lokesh A Goyal
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Cyber projects
